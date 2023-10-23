@@ -1,0 +1,20 @@
+.last{
+    height: 300px;
+}
+.bg-info{
+    background-color:#fceae8 !important;
+}
+.btn{
+    background-color: #a30356;
+    color: aliceblue;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.watch{
+    background-color: rgb(35, 227, 125);
+}
+.categories img{
+    width: 100px;
+}
